@@ -1,0 +1,12 @@
+namespace: "hfenner"
+name: "cyberrange"
+version: "0.0.1"
+readme: "README.md"
+authors:
+    - "Holden Fenner hfenner@redhat.com"
+license:
+    - "APACHE2.0"
+tags:
+    - cyber
+    - infrastructure
+repository: "https://www.github.com/hfenner/cyberrange"
